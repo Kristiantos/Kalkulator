@@ -1,2 +1,2 @@
 # Kalkulator
-kalkulator menggunakan javascript
+kalkulator sederhana menggunakan javascript
